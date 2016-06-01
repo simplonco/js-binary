@@ -11,10 +11,9 @@ function Binary(number) {
 }
 
 Binary.prototype.toDecimal = function () {
-  console.log(this.number);
+  //
+  // YOUR CODE GOES HERE
+  //
 }
 
 module.exports = Binary;
-
-// TEST
-Binary('1100').toDecimal()
