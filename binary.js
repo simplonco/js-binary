@@ -12,7 +12,7 @@ function Binary(number) {
 
 Binary.prototype.toDecimal = function () {
   //
-  // YOUR CODE GOES HERE
+  // YOUR CODE GOES HERE!
   //
 }
 
